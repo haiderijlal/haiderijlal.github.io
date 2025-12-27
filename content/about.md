@@ -3,7 +3,7 @@ title: "About Me"
 ---
 
   
-I am a professional software engineer experienced in building software for diverse sector such as aviation, automotive, & energy. My academic training is in mechanical and aerospace engineering. Working across interdisciplinary domains has led me to approach problems through a system + first-principle thinking. Lately, I have been learning computer science more formally through books and online courses, with a focus on computer systems, computer architecture & artificial intelligence.
+I am a professional software engineer experienced in building software for diverse sector such as aviation, automotive, & energy. My academic training is in mechanical and aerospace engineering. I hold a post graduate diploma in software development. Working across interdisciplinary domains has led me to approach problems through a system + first-principle thinking. Lately, I have been learning computer science more formally through books and online courses, with a focus on computer systems, computer architecture & artificial intelligence.
 
 
 # Work Experience
