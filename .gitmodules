@@ -1,0 +1,3 @@
+[submodule "themes/simply"]
+	path = themes/simply
+	url = https://github.com/haiderijlal/simply.git
