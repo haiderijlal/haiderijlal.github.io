@@ -1,8 +1,9 @@
 ---
-title: "What is learning"
-date: 2025-12-25
-tags: [Essay, learning]
-draft: true
+title: "What I have learnt so far"
+date: 2026-08-08
+tags: [learning, courses, books]
 ---
 
-learning is a price in terms of time one has to pay to understand something. It can comes either with experience as time passes by in oneslife or one has to assign separate time to learn something new 
+- Supervised Machine Learning: Regression and Classification | Coursera | Completed on 5th August, 2026.
+
+- Build a Modern Computer from First Principles: From Nand to Tetris | Cousera | Completed on 3rd July, 2026.
